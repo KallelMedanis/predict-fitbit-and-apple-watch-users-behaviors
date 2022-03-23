@@ -1,6 +1,6 @@
 # predict-fitbit-and-apple-watch-users-behaviors
 
-# 1. Exploratory Data Analysis
+#Exploratory Data Analysis
 ## Checklist de base
 #### Analyse de Forme :
 - **variable target** : activity
